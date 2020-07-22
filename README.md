@@ -1,0 +1,2 @@
+# demoGit
+how git works
